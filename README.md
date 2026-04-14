@@ -17,7 +17,13 @@ MS in Computer Engineering @ UC Irvine · Internship hunting for MLE / SDE roles
 **[ai-code-reviewer](https://github.com/eshwarikhurd/ai-code-reviewer)** — an automated PR reviewer powered by Claude. Opens a pull request → GitHub Action triggers → Claude analyzes the diff → structured feedback posted as a comment. Includes a prompt ablation study across 4 system prompt variants.
 
 ---
+### Featured projects
 
+| Project | What it does | Stack |
+|--------|-------------|-------|
+| [ai-code-reviewer](https://github.com/eshwarikhurd/ai-code-reviewer) | Automated PR reviewer — GitHub Action triggers on every PR, Claude analyzes diff and posts severity-ranked feedback with merge decision | Python, Claude API, GitHub Actions |
+
+---
 ### Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
