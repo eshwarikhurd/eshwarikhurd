@@ -65,5 +65,5 @@ MS in Computer Engineering @ UC Irvine · previously Applied AI Engineer Intern 
 ---
 
 ### Open to
-Open to full-time MLE / SDE roles at AI companies post-graduation  
+Full-time MLE / SDE roles at AI companies after graduation  
 📬 [khurde@uci.edu](mailto:khurde@uci.edu) · [linkedin.com/in/eshwarikhurd](https://linkedin.com/in/eshwarikhurd) · Irvine, CA
