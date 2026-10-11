@@ -23,8 +23,6 @@ MS in Computer Engineering @ UC Irvine · Applied AI Engineer Intern @ GeniosAI
 
 **[moe-hardware-architectures](https://github.com/eshwarikhurd/moe-hardware-architectures)** — how GPU clusters, TPU pods and dataflow accelerators handle Mixture-of-Experts models. Simulators for expert placement over interconnect topologies and expert caching in tiered memory, driven by real routing traces.
 
-**[woa-repair-optimization](https://github.com/eshwarikhurd/woa-repair-optimization)** — benchmarking WOA, PSO, and GA for multi-objective erasure code repair in geo-distributed storage. Jointly optimizes repair latency, traffic overhead, and load balancing on the U.S. backbone network topology. Extending Xu et al. (2026).
-
 ---
 
 ### Featured projects
