@@ -1,10 +1,10 @@
 ## Hi, I'm Eshwari 👋
-MS in Computer Engineering @ UC Irvine · Applied AI Engineer Intern @ GeniosAI
+MS in Computer Engineering @ UC Irvine · previously Applied AI Engineer Intern @ GeniosAI
 
 ---
 
 ### What I work on
-- Agentic AI systems and LLM orchestration workflows for production financial services (GeniosAI)
+- Agentic AI systems and LLM orchestration workflows for financial services (built at GeniosAI)
 - Building tools at the intersection of **LLMs and software engineering**
 - ML systems — distributed training, model optimization, profiling (PyTorch Profiler, NVIDIA Nsight)
 - Distributed storage systems — erasure code repair optimization, metaheuristic algorithms
@@ -12,7 +12,7 @@ MS in Computer Engineering @ UC Irvine · Applied AI Engineer Intern @ GeniosAI
 ---
 
 ### Experience
-- **Applied AI Engineer Intern, GeniosAI** *(Jun 2026 – Present)* — building end-to-end orchestration workflows integrating LLMs with data ingestion, preprocessing, and model training pipelines on enterprise documents and event logs; evaluating approaches for QA, summarization, and automated artifact generation in production; built a GraphRAG pipeline in FalkorDB for causal analysis of SEC filings, evaluated against vector RAG
+- **Applied AI Engineer Intern, GeniosAI** *(Jun – Sep 2026)* — built end-to-end orchestration workflows integrating LLMs with data ingestion, preprocessing, and model training pipelines on enterprise documents and event logs; evaluated approaches for QA, summarization, and automated artifact generation in production; built a GraphRAG pipeline in FalkorDB for causal analysis of SEC filings, evaluated against vector RAG
 - **Grader, EECS 116 (Introduction to Data Management) & EECS 280A (Advanced Electromagnetics I), UC Irvine** *(Feb – Jun 2026)* — evaluated SQL/database design and graduate-level assignments with detailed technical feedback
 
 ---
@@ -65,5 +65,5 @@ MS in Computer Engineering @ UC Irvine · Applied AI Engineer Intern @ GeniosAI
 ---
 
 ### Open to
-Currently interning as an Applied AI Engineer @ GeniosAI · Open to full-time MLE / SDE roles at AI companies post-graduation  
+Open to full-time MLE / SDE roles at AI companies post-graduation  
 📬 [khurde@uci.edu](mailto:khurde@uci.edu) · [linkedin.com/in/eshwarikhurd](https://linkedin.com/in/eshwarikhurd) · Irvine, CA
