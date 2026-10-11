@@ -12,7 +12,7 @@ MS in Computer Engineering @ UC Irvine · Applied AI Engineer Intern @ GeniosAI
 ---
 
 ### Experience
-- **Applied AI Engineer Intern, GeniosAI** *(Jun 2026 – Present)* — building end-to-end orchestration workflows integrating LLMs with data ingestion, preprocessing, and model training pipelines on enterprise documents and event logs; evaluating approaches for QA, summarization, and automated artifact generation in production
+- **Applied AI Engineer Intern, GeniosAI** *(Jun 2026 – Present)* — building end-to-end orchestration workflows integrating LLMs with data ingestion, preprocessing, and model training pipelines on enterprise documents and event logs; evaluating approaches for QA, summarization, and automated artifact generation in production; built a GraphRAG pipeline in FalkorDB for causal analysis of SEC filings, evaluated against vector RAG
 - **Grader, EECS 116 (Introduction to Data Management) & EECS 280A (Advanced Electromagnetics I), UC Irvine** *(Feb – Jun 2026)* — evaluated SQL/database design and graduate-level assignments with detailed technical feedback
 
 ---
